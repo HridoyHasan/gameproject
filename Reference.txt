@@ -1,0 +1,4 @@
+*https://stackoverflow.com/questions/1519736/random-shuffling-of-an-array
+*https://github.com/mchristison/memorygame/blob/master/template/memory-game.js
+*http://clockworkchilli.com/tutorials/javascript_memory_game.html
+*https://www.w3schools.com/jsref/jsref_prototype_array.asp
